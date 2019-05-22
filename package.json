@@ -1,5 +1,5 @@
 {
-  "name": "react-native-version-check-v2",
+  "name": "react-native-version-check",
   "version": "1.0.1",
   "description": "A version checker for react-native applications, forked from kimxogus github",
   "main": "index.js",
